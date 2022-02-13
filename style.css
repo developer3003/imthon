@@ -402,10 +402,13 @@ border-radius: 10px;
 
 .footer-box{
     display: flex;
-    margin-top: 300px;
 }
 .footer-img{
+ margin-bottom: 50px;
+}
 
+hr{
+    margin-top: 300px;
 }
 
 .footer-text{
